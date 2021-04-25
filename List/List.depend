@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555066913 source:c:\users\giuseppe piccolo\desktop\lasd\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1555066733 source:c:\users\giuseppe piccolo\desktop\lasd\list\list.c
+	"List.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1555067232 c:\users\giuseppe piccolo\desktop\lasd\list\list.h
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1559737594 source:/home/giuseppe/Desktop/lasd/graph_list/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Graph_list.h"
+
+1559736999 source:/home/giuseppe/Desktop/lasd/graph_list/Graph_list.c
+	"Graph_list.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	"Queue.h"
+
+1559736450 /home/giuseppe/Desktop/lasd/graph_list/Graph_list.h
+	<stdbool.h>
+
+1555665527 source:/home/giuseppe/Desktop/lasd/graph_list/Queue.c
+	"Queue.h"
+
+1555665528 /home/giuseppe/Desktop/lasd/graph_list/Queue.h
+	<stdbool.h>
+
+1555063634 source:/home/giuseppe/Desktop/lasd/graph_list/List.c
+	"List.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1555063634 /home/giuseppe/Desktop/lasd/graph_list/List.h
+

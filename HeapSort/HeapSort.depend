@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1553375358 source:c:\users\giuseppe piccolo\desktop\lasd\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HeapSort.h"
+	"Tools.h"
+
+1553373239 source:c:\users\giuseppe piccolo\desktop\lasd\heapsort\tools.c
+	"Tools.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1553373201 c:\users\giuseppe piccolo\desktop\lasd\heapsort\tools.h
+
+1553375210 source:c:\users\giuseppe piccolo\desktop\lasd\heapsort\heapsort.c
+	"HeapSort.h"
+	<limits.h>
+	"Tools.h"
+	<stdio.h>
+
+1553374777 c:\users\giuseppe piccolo\desktop\lasd\heapsort\heapsort.h
+	<stdbool.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555951208 source:/home/giuseppe/Desktop/lasd/DLL/main.c
+	<stdio.h>
+	<stdlib.h>
+	"DLL.h"
+
+1555952047 /home/giuseppe/Desktop/lasd/DLL/DLL.h
+
+1555952055 source:/home/giuseppe/Desktop/lasd/DLL/DLL.c
+	"DLL.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+

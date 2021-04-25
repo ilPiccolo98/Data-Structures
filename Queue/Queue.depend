@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555664111 source:/home/giuseppe/Desktop/lasd/Queue/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1555665527 source:/home/giuseppe/Desktop/lasd/Queue/Queue.c
+	"Queue.h"
+
+1555665528 /home/giuseppe/Desktop/lasd/Queue/Queue.h
+	<stdbool.h>
+

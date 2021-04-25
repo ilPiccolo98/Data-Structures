@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1553200937 source:c:\users\giuseppe piccolo\desktop\lasd\insertion_sort\insertions_sort.c
+	"Insertion_sort.h"
+
+1553200662 c:\users\giuseppe piccolo\desktop\lasd\insertion_sort\insertion_sort.h
+
+1553202202 source:c:\users\giuseppe piccolo\desktop\lasd\insertion_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Insertion_sort.h"
+	"Tools.h"
+
+1553201948 c:\users\giuseppe piccolo\desktop\lasd\insertion_sort\tools.h
+
+1553201948 source:c:\users\giuseppe piccolo\desktop\lasd\insertion_sort\tools.c
+	"Tools.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

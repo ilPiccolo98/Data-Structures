@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555616718 source:/home/giuseppe/Desktop/lasd/Stack/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1555617843 source:/home/giuseppe/Desktop/lasd/Stack/Stack.c
+	"Stack.h"
+
+1555617894 /home/giuseppe/Desktop/lasd/Stack/Stack.h
+	<stdbool.h>
+

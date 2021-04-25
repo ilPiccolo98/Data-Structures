@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555242756 source:c:\users\giuseppe piccolo\desktop\lasd\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+
+1555242973 source:c:\users\giuseppe piccolo\desktop\lasd\bst\bst.c
+	"BST.h"
+	<stdlib.h>
+	<stdio.h>
+
+1555242982 c:\users\giuseppe piccolo\desktop\lasd\bst\bst.h
+
